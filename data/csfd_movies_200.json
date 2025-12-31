@@ -1,0 +1,4436 @@
+[
+    {
+        "no": 1,
+        "title": "Vykoupení z věznice Shawshank",
+        "rating_avg": 95.4,
+        "rating_total": 115029,
+        "year": 1994,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 142,
+        "directors": [
+            "Frank Darabont"
+        ],
+        "actors": [
+            "Tim Robbins",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "no": 2,
+        "title": "Forrest Gump",
+        "rating_avg": 94.4,
+        "rating_total": 130338,
+        "year": 1994,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Komedie"
+        ],
+        "duration": 142,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Robin Wright"
+        ]
+    },
+    {
+        "no": 3,
+        "title": "Zelená míle",
+        "rating_avg": 92.9,
+        "rating_total": 110943,
+        "year": 1999,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Mysteriózní"
+        ],
+        "duration": 188,
+        "directors": [
+            "Frank Darabont"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "David Morse"
+        ]
+    },
+    {
+        "no": 4,
+        "title": "Sedm",
+        "rating_avg": 92.5,
+        "rating_total": 100775,
+        "year": 1995,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Thriller",
+            "Krimi"
+        ],
+        "duration": 127,
+        "directors": [
+            "David Fincher"
+        ],
+        "actors": [
+            "Brad Pitt",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "no": 5,
+        "title": "Přelet nad kukaččím hnízdem",
+        "rating_avg": 92.4,
+        "rating_total": 82656,
+        "year": 1975,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 133,
+        "directors": [
+            "Miloš Forman"
+        ],
+        "actors": [
+            "Jack Nicholson",
+            "Louise Fletcher"
+        ]
+    },
+    {
+        "no": 6,
+        "title": "Schindlerův seznam",
+        "rating_avg": 92.4,
+        "rating_total": 76802,
+        "year": 1993,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Historický"
+        ],
+        "duration": 195,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Liam Neeson",
+            "Ben Kingsley"
+        ]
+    },
+    {
+        "no": 7,
+        "title": "Kmotr",
+        "rating_avg": 91.8,
+        "rating_total": 72110,
+        "year": 1972,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 175,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "actors": [
+            "Marlon Brando",
+            "Al Pacino"
+        ]
+    },
+    {
+        "no": 8,
+        "title": "Dvanáct rozhněvaných mužů",
+        "rating_avg": 91.5,
+        "rating_total": 39096,
+        "year": 1957,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 96,
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "actors": [
+            "Martin Balsam",
+            "John Fiedler"
+        ]
+    },
+    {
+        "no": 9,
+        "title": "Nedotknutelní",
+        "rating_avg": 91.3,
+        "rating_total": 82817,
+        "year": 2011,
+        "countries": [
+            "Francie"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 112,
+        "directors": [
+            "Eric Toledano",
+            "Olivier Nakache"
+        ],
+        "actors": [
+            "François Cluzet",
+            "Omar Sy"
+        ]
+    },
+    {
+        "no": 10,
+        "title": "Pelíšky",
+        "rating_avg": 91.2,
+        "rating_total": 117480,
+        "year": 1999,
+        "countries": [
+            "Česko"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 116,
+        "directors": [
+            "Jan Hřebejk"
+        ],
+        "actors": [
+            "Miroslav Donutil",
+            "Jiří Kodet"
+        ]
+    },
+    {
+        "no": 11,
+        "title": "Terminátor 2: Den zúčtování",
+        "rating_avg": 91.0,
+        "rating_total": 83589,
+        "year": 1991,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Akční",
+            "Sci-Fi"
+        ],
+        "duration": 137,
+        "directors": [
+            "James Cameron"
+        ],
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton"
+        ]
+    },
+    {
+        "no": 12,
+        "title": "Pán prstenů: Společenstvo Prstenu",
+        "rating_avg": 90.7,
+        "rating_total": 114195,
+        "year": 2001,
+        "countries": [
+            "USA",
+            "Nový Zéland"
+        ],
+        "genres": [
+            "Fantasy",
+            "Dobrodružný"
+        ],
+        "duration": 172,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen"
+        ]
+    },
+    {
+        "no": 13,
+        "title": "Pulp Fiction: Historky z podsvětí",
+        "rating_avg": 90.8,
+        "rating_total": 109996,
+        "year": 1994,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Krimi",
+            "Drama"
+        ],
+        "duration": 154,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "actors": [
+            "John Travolta",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "no": 14,
+        "title": "Pán prstenů: Návrat krále",
+        "rating_avg": 90.7,
+        "rating_total": 106178,
+        "year": 2003,
+        "countries": [
+            "USA",
+            "Nový Zéland"
+        ],
+        "genres": [
+            "Fantasy",
+            "Dobrodružný"
+        ],
+        "duration": 201,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "actors": [
+            "Elijah Wood",
+            "Billy Boyd"
+        ]
+    },
+    {
+        "no": 15,
+        "title": "Kmotr II",
+        "rating_avg": 90.7,
+        "rating_total": 50106,
+        "year": 1974,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 202,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "actors": [
+            "Al Pacino",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "no": 16,
+        "title": "Temný rytíř",
+        "rating_avg": 90.5,
+        "rating_total": 101038,
+        "year": 2008,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Drama"
+        ],
+        "duration": 152,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger"
+        ]
+    },
+    {
+        "no": 17,
+        "title": "Mlčení jehňátek",
+        "rating_avg": 90.6,
+        "rating_total": 86966,
+        "year": 1991,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Thriller",
+            "Krimi"
+        ],
+        "duration": 118,
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "actors": [
+            "Jodie Foster",
+            "Anthony Hopkins"
+        ]
+    },
+    {
+        "no": 18,
+        "title": "Tenkrát na Západě",
+        "rating_avg": 90.5,
+        "rating_total": 54019,
+        "year": 1968,
+        "countries": [
+            "Itálie",
+            "USA"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "duration": 166,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "actors": [
+            "Claudia Cardinale",
+            "Henry Fonda"
+        ]
+    },
+    {
+        "no": 19,
+        "title": "Matrix",
+        "rating_avg": 90.3,
+        "rating_total": 111256,
+        "year": 1999,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Sci-Fi"
+        ],
+        "duration": 136,
+        "directors": [
+            "Lilly Wachowski",
+            "Lana Wachowski"
+        ],
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne"
+        ]
+    },
+    {
+        "no": 20,
+        "title": "Gran Torino",
+        "rating_avg": 90.3,
+        "rating_total": 77740,
+        "year": 2008,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 116,
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Christopher Carley"
+        ]
+    },
+    {
+        "no": 21,
+        "title": "Hodný, zlý a ošklivý",
+        "rating_avg": 90.0,
+        "rating_total": 37610,
+        "year": 1966,
+        "countries": [
+            "Itálie",
+            "USA"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "duration": 161,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Eli Wallach"
+        ]
+    },
+    {
+        "no": 22,
+        "title": "Dobyvatelé ztracené archy",
+        "rating_avg": 89.9,
+        "rating_total": 75602,
+        "year": 1981,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Akční"
+        ],
+        "duration": 115,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Harrison Ford",
+            "Karen Allen"
+        ]
+    },
+    {
+        "no": 23,
+        "title": "Rain Man",
+        "rating_avg": 89.8,
+        "rating_total": 76096,
+        "year": 1988,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Road movie"
+        ],
+        "duration": 133,
+        "directors": [
+            "Barry Levinson"
+        ],
+        "actors": [
+            "Dustin Hoffman",
+            "Tom Cruise"
+        ]
+    },
+    {
+        "no": 24,
+        "title": "Sedm statečných",
+        "rating_avg": 89.9,
+        "rating_total": 50098,
+        "year": 1960,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Western",
+            "Dobrodružný"
+        ],
+        "duration": 123,
+        "directors": [
+            "John Sturges"
+        ],
+        "actors": [
+            "Yul Brynner",
+            "Steve McQueen"
+        ]
+    },
+    {
+        "no": 25,
+        "title": "Vyšší princip",
+        "rating_avg": 89.8,
+        "rating_total": 32800,
+        "year": 1960,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 102,
+        "directors": [
+            "Jiří Krejčík"
+        ],
+        "actors": [
+            "František Smolík",
+            "Jana Brejchová"
+        ]
+    },
+    {
+        "no": 26,
+        "title": "Indiana Jones a Poslední křížová výprava",
+        "rating_avg": 89.7,
+        "rating_total": 76637,
+        "year": 1989,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Akční"
+        ],
+        "duration": 127,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Harrison Ford",
+            "Sean Connery"
+        ]
+    },
+    {
+        "no": 27,
+        "title": "Le Mans '66",
+        "rating_avg": 89.7,
+        "rating_total": 31272,
+        "year": 2019,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 152,
+        "directors": [
+            "James Mangold"
+        ],
+        "actors": [
+            "Matt Damon",
+            "Christian Bale"
+        ]
+    },
+    {
+        "no": 28,
+        "title": "Vetřelec",
+        "rating_avg": 89.7,
+        "rating_total": 74681,
+        "year": 1979,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Horor",
+            "Sci-Fi"
+        ],
+        "duration": 117,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "actors": [
+            "Sigourney Weaver",
+            "Tom Skerritt"
+        ]
+    },
+    {
+        "no": 29,
+        "title": "Vetřelci",
+        "rating_avg": 89.6,
+        "rating_total": 61877,
+        "year": 1986,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "duration": 137,
+        "directors": [
+            "James Cameron"
+        ],
+        "actors": [
+            "Sigourney Weaver",
+            "Carrie Henn"
+        ]
+    },
+    {
+        "no": 30,
+        "title": "Rivalové",
+        "rating_avg": 89.7,
+        "rating_total": 61693,
+        "year": 2013,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 123,
+        "directors": [
+            "Ron Howard"
+        ],
+        "actors": [
+            "Chris Hemsworth",
+            "Daniel Brühl"
+        ]
+    },
+    {
+        "no": 31,
+        "title": "Smrtonosná past",
+        "rating_avg": 89.5,
+        "rating_total": 71879,
+        "year": 1988,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Thriller"
+        ],
+        "duration": 131,
+        "directors": [
+            "John McTiernan"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Bonnie Bedelia"
+        ]
+    },
+    {
+        "no": 32,
+        "title": "Podraz",
+        "rating_avg": 89.5,
+        "rating_total": 34019,
+        "year": 1973,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Komedie"
+        ],
+        "duration": 129,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "actors": [
+            "Paul Newman",
+            "Robert Redford"
+        ]
+    },
+    {
+        "no": 33,
+        "title": "Zachraňte vojína Ryana",
+        "rating_avg": 89.3,
+        "rating_total": 86504,
+        "year": 1998,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 163,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Edward Burns"
+        ]
+    },
+    {
+        "no": 34,
+        "title": "S čerty nejsou žerty",
+        "rating_avg": 89.3,
+        "rating_total": 81207,
+        "year": 1984,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Pohádka",
+            "Komedie"
+        ],
+        "duration": 91,
+        "directors": [
+            "Hynek Bočan"
+        ],
+        "actors": [
+            "Luděk Munzar",
+            "Vladimír Dlouhý"
+        ]
+    },
+    {
+        "no": 35,
+        "title": "Leon",
+        "rating_avg": 89.2,
+        "rating_total": 66144,
+        "year": 1994,
+        "countries": [
+            "Francie"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 105,
+        "directors": [
+            "Luc Besson"
+        ],
+        "actors": [
+            "Jean Reno",
+            "Gary Oldman"
+        ]
+    },
+    {
+        "no": 36,
+        "title": "„Marečku, podejte mi pero!“",
+        "rating_avg": 89.1,
+        "rating_total": 84405,
+        "year": 1976,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 96,
+        "directors": [
+            "Oldřich Lipský"
+        ],
+        "actors": [
+            "Jiří Sovák",
+            "Václav Lohniský"
+        ]
+    },
+    {
+        "no": 37,
+        "title": "Amadeus",
+        "rating_avg": 89.1,
+        "rating_total": 56354,
+        "year": 1984,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 160,
+        "directors": [
+            "Miloš Forman"
+        ],
+        "actors": [
+            "F. Murray Abraham",
+            "Tom Hulce"
+        ]
+    },
+    {
+        "no": 38,
+        "title": "Obecná škola",
+        "rating_avg": 89.0,
+        "rating_total": 86049,
+        "year": 1991,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 97,
+        "directors": [
+            "Jan Svěrák"
+        ],
+        "actors": [
+            "Jan Tříska",
+            "Václav Jakoubek"
+        ]
+    },
+    {
+        "no": 39,
+        "title": "Star Wars: Epizoda V - Impérium vrací úder",
+        "rating_avg": 89.0,
+        "rating_total": 70209,
+        "year": 1980,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Dobrodružný"
+        ],
+        "duration": 124,
+        "directors": [
+            "Irvin Kershner"
+        ],
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ]
+    },
+    {
+        "no": 40,
+        "title": "Pán prstenů: Dvě věže",
+        "rating_avg": 88.9,
+        "rating_total": 103658,
+        "year": 2002,
+        "countries": [
+            "USA",
+            "Nový Zéland"
+        ],
+        "genres": [
+            "Fantasy",
+            "Dobrodružný"
+        ],
+        "duration": 172,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen"
+        ]
+    },
+    {
+        "no": 41,
+        "title": "L. A. - Přísně tajné",
+        "rating_avg": 88.9,
+        "rating_total": 40303,
+        "year": 1997,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 138,
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "actors": [
+            "Kevin Spacey",
+            "Russell Crowe"
+        ]
+    },
+    {
+        "no": 42,
+        "title": "Cesta do hlubin študákovy duše",
+        "rating_avg": 88.9,
+        "rating_total": 40110,
+        "year": 1939,
+        "countries": [
+            "Protektorát Čechy a Morava"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 88,
+        "directors": [
+            "Martin Frič"
+        ],
+        "actors": [
+            "Jindřich Plachta",
+            "Jaroslav Marvan"
+        ]
+    },
+    {
+        "no": 43,
+        "title": "Butch Cassidy a Sundance Kid",
+        "rating_avg": 88.9,
+        "rating_total": 32314,
+        "year": 1969,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "duration": 110,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "actors": [
+            "Paul Newman",
+            "Robert Redford"
+        ]
+    },
+    {
+        "no": 44,
+        "title": "Návrat do budoucnosti",
+        "rating_avg": 88.8,
+        "rating_total": 69810,
+        "year": 1985,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Komedie"
+        ],
+        "duration": 116,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd"
+        ]
+    },
+    {
+        "no": 45,
+        "title": "Gladiátor",
+        "rating_avg": 88.7,
+        "rating_total": 91661,
+        "year": 2000,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Dobrodružný"
+        ],
+        "duration": 155,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "actors": [
+            "Russell Crowe",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "no": 46,
+        "title": "Počátek",
+        "rating_avg": 88.7,
+        "rating_total": 100677,
+        "year": 2010,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Sci-Fi"
+        ],
+        "duration": 148,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt"
+        ]
+    },
+    {
+        "no": 47,
+        "title": "Čistá duše",
+        "rating_avg": 88.6,
+        "rating_total": 57937,
+        "year": 2001,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 135,
+        "directors": [
+            "Ron Howard"
+        ],
+        "actors": [
+            "Russell Crowe",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "no": 48,
+        "title": "Město bohů",
+        "rating_avg": 88.7,
+        "rating_total": 42533,
+        "year": 2002,
+        "countries": [
+            "Brazílie",
+            "Francie"
+        ],
+        "genres": [
+            "Krimi",
+            "Drama"
+        ],
+        "duration": 130,
+        "directors": [
+            "Fernando Meirelles",
+            "Kátia Lund"
+        ],
+        "actors": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino"
+        ]
+    },
+    {
+        "no": 49,
+        "title": "Pianista",
+        "rating_avg": 88.5,
+        "rating_total": 59455,
+        "year": 2002,
+        "countries": [
+            "Francie",
+            "Polsko"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 150,
+        "directors": [
+            "Roman Polański"
+        ],
+        "actors": [
+            "Adrien Brody",
+            "Emilia Fox"
+        ]
+    },
+    {
+        "no": 50,
+        "title": "Spalovač mrtvol",
+        "rating_avg": 88.5,
+        "rating_total": 56133,
+        "year": 1968,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Horor"
+        ],
+        "duration": 96,
+        "directors": [
+            "Juraj Herz"
+        ],
+        "actors": [
+            "Rudolf Hrušínský",
+            "Vlasta Chramostová"
+        ]
+    },
+    {
+        "no": 51,
+        "title": "Tanec s vlky",
+        "rating_avg": 88.5,
+        "rating_total": 49060,
+        "year": 1990,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Drama"
+        ],
+        "duration": 181,
+        "directors": [
+            "Kevin Costner"
+        ],
+        "actors": [
+            "Kevin Costner",
+            "Mary McDonnell"
+        ]
+    },
+    {
+        "no": 52,
+        "title": "Vesničko má středisková",
+        "rating_avg": 88.4,
+        "rating_total": 84433,
+        "year": 1985,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 98,
+        "directors": [
+            "Jiří Menzel"
+        ],
+        "actors": [
+            "János Bán",
+            "Marián Labuda st."
+        ]
+    },
+    {
+        "no": 53,
+        "title": "Nespoutaný Django",
+        "rating_avg": 88.2,
+        "rating_total": 77565,
+        "year": 2012,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Western",
+            "Dobrodružný"
+        ],
+        "duration": 165,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "actors": [
+            "Jamie Foxx",
+            "Christoph Waltz"
+        ]
+    },
+    {
+        "no": 54,
+        "title": "Šestý smysl",
+        "rating_avg": 88.2,
+        "rating_total": 77418,
+        "year": 1999,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "duration": 107,
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Toni Collette"
+        ]
+    },
+    {
+        "no": 55,
+        "title": "Casino",
+        "rating_avg": 88.2,
+        "rating_total": 36165,
+        "year": 1995,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 178,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "actors": [
+            "Robert De Niro",
+            "Sharon Stone"
+        ]
+    },
+    {
+        "no": 56,
+        "title": "Prokletý ostrov",
+        "rating_avg": 88.1,
+        "rating_total": 80597,
+        "year": 2010,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Mysteriózní",
+            "Thriller"
+        ],
+        "duration": 138,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "actors": [
+            "Leonardo DiCaprio",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "no": 57,
+        "title": "Klub rváčů",
+        "rating_avg": 88.1,
+        "rating_total": 79414,
+        "year": 1999,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "duration": 139,
+        "directors": [
+            "David Fincher"
+        ],
+        "actors": [
+            "Edward Norton",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "no": 58,
+        "title": "Kult hákového kříže",
+        "rating_avg": 88.2,
+        "rating_total": 60008,
+        "year": 1998,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 119,
+        "directors": [
+            "Tony Kaye"
+        ],
+        "actors": [
+            "Edward Norton",
+            "Edward Furlong"
+        ]
+    },
+    {
+        "no": 59,
+        "title": "Statečné srdce",
+        "rating_avg": 88.0,
+        "rating_total": 73552,
+        "year": 1995,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Historický"
+        ],
+        "duration": 170,
+        "directors": [
+            "Mel Gibson"
+        ],
+        "actors": [
+            "Mel Gibson",
+            "Sophie Marceau"
+        ]
+    },
+    {
+        "no": 60,
+        "title": "Million Dollar Baby",
+        "rating_avg": 88.0,
+        "rating_total": 59898,
+        "year": 2004,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sportovní",
+            "Drama"
+        ],
+        "duration": 133,
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Hilary Swank"
+        ]
+    },
+    {
+        "no": 61,
+        "title": "Dobrý Will Hunting",
+        "rating_avg": 88.0,
+        "rating_total": 53225,
+        "year": 1997,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Psychologický"
+        ],
+        "duration": 126,
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "actors": [
+            "Robin Williams",
+            "Matt Damon"
+        ]
+    },
+    {
+        "no": 62,
+        "title": "Nelítostný souboj",
+        "rating_avg": 88.1,
+        "rating_total": 36452,
+        "year": 1995,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Drama"
+        ],
+        "duration": 170,
+        "directors": [
+            "Michael Mann"
+        ],
+        "actors": [
+            "Al Pacino",
+            "Robert De Niro"
+        ]
+    },
+    {
+        "no": 63,
+        "title": "Život je krásný",
+        "rating_avg": 87.9,
+        "rating_total": 38246,
+        "year": 1997,
+        "countries": [
+            "Itálie"
+        ],
+        "genres": [
+            "Komedie",
+            "Romantický"
+        ],
+        "duration": 116,
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "actors": [
+            "Roberto Benigni",
+            "Nicoletta Braschi"
+        ]
+    },
+    {
+        "no": 64,
+        "title": "Psycho",
+        "rating_avg": 87.9,
+        "rating_total": 36117,
+        "year": 1960,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Horor",
+            "Thriller"
+        ],
+        "duration": 109,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "actors": [
+            "Anthony Perkins",
+            "Vera Miles"
+        ]
+    },
+    {
+        "no": 65,
+        "title": "Klaus",
+        "rating_avg": 88.0,
+        "rating_total": 12102,
+        "year": 2019,
+        "countries": [
+            "Španělsko"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 96,
+        "directors": [
+            "Sergio Pablos"
+        ],
+        "actors": [
+            "Rashida Jones",
+            "Joan Cusack"
+        ]
+    },
+    {
+        "no": 66,
+        "title": "Dokonalý trik",
+        "rating_avg": 87.9,
+        "rating_total": 80416,
+        "year": 2006,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Mysteriózní",
+            "Thriller"
+        ],
+        "duration": 130,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Hugh Jackman",
+            "Christian Bale"
+        ]
+    },
+    {
+        "no": 67,
+        "title": "12 úkolů pro Asterixe",
+        "rating_avg": 87.8,
+        "rating_total": 30329,
+        "year": 1976,
+        "countries": [
+            "Francie"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 82,
+        "directors": [
+            "René Goscinny",
+            "Albert Uderzo"
+        ],
+        "actors": [
+            "Roger Carel",
+            "Pierre Tornade"
+        ]
+    },
+    {
+        "no": 68,
+        "title": "Osvícení",
+        "rating_avg": 87.7,
+        "rating_total": 55064,
+        "year": 1980,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Horor",
+            "Drama"
+        ],
+        "duration": 119,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "actors": [
+            "Jack Nicholson",
+            "Shelley Duvall"
+        ]
+    },
+    {
+        "no": 69,
+        "title": "Smrtonosná zbraň",
+        "rating_avg": 87.8,
+        "rating_total": 54214,
+        "year": 1987,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Krimi"
+        ],
+        "duration": 110,
+        "directors": [
+            "Richard Donner"
+        ],
+        "actors": [
+            "Mel Gibson",
+            "Danny Glover"
+        ]
+    },
+    {
+        "no": 70,
+        "title": "Četa",
+        "rating_avg": 87.8,
+        "rating_total": 41577,
+        "year": 1986,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 120,
+        "directors": [
+            "Oliver Stone"
+        ],
+        "actors": [
+            "Charlie Sheen",
+            "Tom Berenger"
+        ]
+    },
+    {
+        "no": 71,
+        "title": "Hon",
+        "rating_avg": 87.8,
+        "rating_total": 33291,
+        "year": 2012,
+        "countries": [
+            "Dánsko",
+            "Švédsko"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 115,
+        "directors": [
+            "Thomas Vinterberg"
+        ],
+        "actors": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen"
+        ]
+    },
+    {
+        "no": 72,
+        "title": "Prázdniny v Římě",
+        "rating_avg": 87.7,
+        "rating_total": 26735,
+        "year": 1953,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Romantický"
+        ],
+        "duration": 118,
+        "directors": [
+            "William Wyler"
+        ],
+        "actors": [
+            "Gregory Peck",
+            "Audrey Hepburn"
+        ]
+    },
+    {
+        "no": 73,
+        "title": "Shrek",
+        "rating_avg": 87.7,
+        "rating_total": 101946,
+        "year": 2001,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 90,
+        "directors": [
+            "Vicky Jenson",
+            "Andrew Adamson"
+        ],
+        "actors": [
+            "Mike Myers",
+            "Eddie Murphy"
+        ]
+    },
+    {
+        "no": 74,
+        "title": "Star Wars: Epizoda IV - Nová naděje",
+        "rating_avg": 87.7,
+        "rating_total": 71432,
+        "year": 1977,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Dobrodružný"
+        ],
+        "duration": 121,
+        "directors": [
+            "George Lucas"
+        ],
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ]
+    },
+    {
+        "no": 75,
+        "title": "Na samotě u lesa",
+        "rating_avg": 87.6,
+        "rating_total": 67004,
+        "year": 1976,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Rodinný"
+        ],
+        "duration": 93,
+        "directors": [
+            "Jiří Menzel"
+        ],
+        "actors": [
+            "Josef Kemr",
+            "Zdeněk Svěrák"
+        ]
+    },
+    {
+        "no": 76,
+        "title": "Někdo to rád horké",
+        "rating_avg": 87.6,
+        "rating_total": 37987,
+        "year": 1959,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Krimi"
+        ],
+        "duration": 120,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "actors": [
+            "Marilyn Monroe",
+            "Tony Curtis"
+        ]
+    },
+    {
+        "no": 77,
+        "title": "Kladivo na čarodějnice",
+        "rating_avg": 87.7,
+        "rating_total": 32823,
+        "year": 1969,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Historický"
+        ],
+        "duration": 103,
+        "directors": [
+            "Otakar Vávra"
+        ],
+        "actors": [
+            "Vladimír Šmeral",
+            "Elo Romančík"
+        ]
+    },
+    {
+        "no": 78,
+        "title": "Motýlek",
+        "rating_avg": 87.6,
+        "rating_total": 30391,
+        "year": 1973,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 151,
+        "directors": [
+            "Franklin J. Schaffner"
+        ],
+        "actors": [
+            "Steve McQueen",
+            "Dustin Hoffman"
+        ]
+    },
+    {
+        "no": 79,
+        "title": "Star Wars: Epizoda III - Pomsta Sithů",
+        "rating_avg": 87.5,
+        "rating_total": 71122,
+        "year": 2005,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Fantasy"
+        ],
+        "duration": 140,
+        "directors": [
+            "George Lucas"
+        ],
+        "actors": [
+            "Ewan McGregor",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "no": 80,
+        "title": "Requiem za sen",
+        "rating_avg": 87.5,
+        "rating_total": 61643,
+        "year": 2000,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 102,
+        "directors": [
+            "Darren Aronofsky"
+        ],
+        "actors": [
+            "Ellen Burstyn",
+            "Jared Leto"
+        ]
+    },
+    {
+        "no": 81,
+        "title": "Mafiáni",
+        "rating_avg": 87.5,
+        "rating_total": 35657,
+        "year": 1990,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 146,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "actors": [
+            "Robert De Niro",
+            "Ray Liotta"
+        ]
+    },
+    {
+        "no": 82,
+        "title": "Coco",
+        "rating_avg": 87.6,
+        "rating_total": 28813,
+        "year": 2017,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Komedie"
+        ],
+        "duration": 105,
+        "directors": [
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
+        "actors": [
+            "Anthony Gonzalez",
+            "Gael García Bernal"
+        ]
+    },
+    {
+        "no": 83,
+        "title": "U pokladny stál...",
+        "rating_avg": 87.5,
+        "rating_total": 25682,
+        "year": 1939,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 99,
+        "directors": [
+            "Karel Lamač"
+        ],
+        "actors": [
+            "Vlasta Burian",
+            "Jaroslav Marvan"
+        ]
+    },
+    {
+        "no": 84,
+        "title": "Tenkrát v Americe",
+        "rating_avg": 87.5,
+        "rating_total": 24073,
+        "year": 1984,
+        "countries": [
+            "USA",
+            "Itálie"
+        ],
+        "genres": [
+            "Krimi",
+            "Drama"
+        ],
+        "duration": 229,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "actors": [
+            "Robert De Niro",
+            "James Woods"
+        ]
+    },
+    {
+        "no": 85,
+        "title": "Cesta do pravěku",
+        "rating_avg": 87.4,
+        "rating_total": 51108,
+        "year": 1955,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Fantasy"
+        ],
+        "duration": 93,
+        "directors": [
+            "Karel Zeman"
+        ],
+        "actors": [
+            "Vladimír Bejval",
+            "Petr Herrmann"
+        ]
+    },
+    {
+        "no": 86,
+        "title": "Warrior",
+        "rating_avg": 87.4,
+        "rating_total": 42358,
+        "year": 2011,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sportovní",
+            "Drama"
+        ],
+        "duration": 140,
+        "directors": [
+            "Gavin O'Connor"
+        ],
+        "actors": [
+            "Joel Edgerton",
+            "Tom Hardy"
+        ]
+    },
+    {
+        "no": 87,
+        "title": "Obvyklí podezřelí",
+        "rating_avg": 87.4,
+        "rating_total": 35934,
+        "year": 1995,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 106,
+        "directors": [
+            "Bryan Singer"
+        ],
+        "actors": [
+            "Stephen Baldwin",
+            "Gabriel Byrne"
+        ]
+    },
+    {
+        "no": 88,
+        "title": "Americká krása",
+        "rating_avg": 87.3,
+        "rating_total": 71155,
+        "year": 1999,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 122,
+        "directors": [
+            "Sam Mendes"
+        ],
+        "actors": [
+            "Kevin Spacey",
+            "Annette Bening"
+        ]
+    },
+    {
+        "no": 89,
+        "title": "Podfu(c)k",
+        "rating_avg": 87.4,
+        "rating_total": 57871,
+        "year": 2000,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Krimi"
+        ],
+        "duration": 104,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "actors": [
+            "Jason Statham",
+            "Stephen Graham"
+        ]
+    },
+    {
+        "no": 90,
+        "title": "Bohemian Rhapsody",
+        "rating_avg": 87.3,
+        "rating_total": 50850,
+        "year": 2018,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Životopisný",
+            "Drama"
+        ],
+        "duration": 134,
+        "directors": [
+            "Bryan Singer"
+        ],
+        "actors": [
+            "Rami Malek",
+            "Lucy Boynton"
+        ]
+    },
+    {
+        "no": 91,
+        "title": "Star Wars: Epizoda VI - Návrat Jediů",
+        "rating_avg": 87.2,
+        "rating_total": 64897,
+        "year": 1983,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Dobrodružný"
+        ],
+        "duration": 131,
+        "directors": [
+            "Richard Marquand"
+        ],
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ]
+    },
+    {
+        "no": 92,
+        "title": "Byl jednou jeden král...",
+        "rating_avg": 87.2,
+        "rating_total": 56428,
+        "year": 1954,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Pohádka",
+            "Komedie"
+        ],
+        "duration": 107,
+        "directors": [
+            "Bořivoj Zeman"
+        ],
+        "actors": [
+            "Jan Werich",
+            "Vlasta Burian"
+        ]
+    },
+    {
+        "no": 93,
+        "title": "Bourneovo ultimátum",
+        "rating_avg": 87.3,
+        "rating_total": 55161,
+        "year": 2007,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Akční",
+            "Thriller"
+        ],
+        "duration": 115,
+        "directors": [
+            "Paul Greengrass"
+        ],
+        "actors": [
+            "Matt Damon",
+            "Julia Stiles"
+        ]
+    },
+    {
+        "no": 94,
+        "title": "Terminátor",
+        "rating_avg": 87.2,
+        "rating_total": 75189,
+        "year": 1984,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Sci-Fi"
+        ],
+        "duration": 107,
+        "directors": [
+            "James Cameron"
+        ],
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Michael Biehn"
+        ]
+    },
+    {
+        "no": 95,
+        "title": "Uprchlík",
+        "rating_avg": 87.2,
+        "rating_total": 43676,
+        "year": 1993,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Thriller"
+        ],
+        "duration": 130,
+        "directors": [
+            "Andrew Davis"
+        ],
+        "actors": [
+            "Harrison Ford",
+            "Tommy Lee Jones"
+        ]
+    },
+    {
+        "no": 96,
+        "title": "Čas probuzení",
+        "rating_avg": 87.2,
+        "rating_total": 19625,
+        "year": 1990,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 121,
+        "directors": [
+            "Penny Marshall"
+        ],
+        "actors": [
+            "Robert De Niro",
+            "Robin Williams"
+        ]
+    },
+    {
+        "no": 97,
+        "title": "Chyť mě, když to dokážeš",
+        "rating_avg": 87.1,
+        "rating_total": 84435,
+        "year": 2002,
+        "countries": [
+            "USA",
+            "Kanada"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 141,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Leonardo DiCaprio",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "no": 98,
+        "title": "Poslední skaut",
+        "rating_avg": 87.0,
+        "rating_total": 48382,
+        "year": 1991,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Krimi"
+        ],
+        "duration": 105,
+        "directors": [
+            "Tony Scott"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Damon Wayans"
+        ]
+    },
+    {
+        "no": 99,
+        "title": "Princezna Mononoke",
+        "rating_avg": 87.0,
+        "rating_total": 30364,
+        "year": 1997,
+        "countries": [
+            "Japonsko"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 133,
+        "directors": [
+            "Hajao Mijazaki"
+        ],
+        "actors": [
+            "Júko Tanaka",
+            "Jódži Macuda"
+        ]
+    },
+    {
+        "no": 100,
+        "title": "Frajer Luke",
+        "rating_avg": 87.0,
+        "rating_total": 23814,
+        "year": 1967,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 126,
+        "directors": [
+            "Stuart Rosenberg"
+        ],
+        "actors": [
+            "Paul Newman",
+            "George Kennedy"
+        ]
+    },
+    {
+        "no": 101,
+        "title": "Spider-Man: Napříč paralelními světy",
+        "rating_avg": 87.1,
+        "rating_total": 10657,
+        "year": 2023,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Akční"
+        ],
+        "duration": 140,
+        "directors": [
+            "Joaquim Dos Santos",
+            "Kemp Powers"
+        ],
+        "actors": [
+            "Shameik Moore",
+            "Hailee Steinfeld"
+        ]
+    },
+    {
+        "no": 102,
+        "title": "25 let neviny",
+        "rating_avg": 87.5,
+        "rating_total": 2753,
+        "year": 2020,
+        "countries": [
+            "Polsko"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 112,
+        "directors": [
+            "Jan Holoubek"
+        ],
+        "actors": [
+            "Piotr Trojan",
+            "Agata Kulesza"
+        ]
+    },
+    {
+        "no": 103,
+        "title": "Trainspotting",
+        "rating_avg": 86.9,
+        "rating_total": 59978,
+        "year": 1996,
+        "countries": [
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 90,
+        "directors": [
+            "Danny Boyle"
+        ],
+        "actors": [
+            "Ewan McGregor",
+            "Ewen Bremner"
+        ]
+    },
+    {
+        "no": 104,
+        "title": "Truman Show",
+        "rating_avg": 86.9,
+        "rating_total": 55240,
+        "year": 1998,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Komedie"
+        ],
+        "duration": 103,
+        "directors": [
+            "Peter Weir"
+        ],
+        "actors": [
+            "Jim Carrey",
+            "Laura Linney"
+        ]
+    },
+    {
+        "no": 105,
+        "title": "Světáci",
+        "rating_avg": 86.9,
+        "rating_total": 27884,
+        "year": 1969,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Hudební"
+        ],
+        "duration": 99,
+        "directors": [
+            "Zdeněk Podskalský st."
+        ],
+        "actors": [
+            "Jiří Sovák",
+            "Vlastimil Brodský"
+        ]
+    },
+    {
+        "no": 106,
+        "title": "Duna: Část druhá",
+        "rating_avg": 86.9,
+        "rating_total": 24546,
+        "year": 2024,
+        "countries": [
+            "USA",
+            "Kanada"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Akční"
+        ],
+        "duration": 166,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "actors": [
+            "Timothée Chalamet",
+            "Zendaya"
+        ]
+    },
+    {
+        "no": 107,
+        "title": "Medvěd",
+        "rating_avg": 86.9,
+        "rating_total": 20532,
+        "year": 1988,
+        "countries": [
+            "Francie",
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Rodinný"
+        ],
+        "duration": 96,
+        "directors": [
+            "Jean-Jacques Annaud"
+        ],
+        "actors": [
+            "medvěd Bart",
+            "medvěd Youk"
+        ]
+    },
+    {
+        "no": 108,
+        "title": "Hanebný pancharti",
+        "rating_avg": 86.8,
+        "rating_total": 86445,
+        "year": 2009,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Drama",
+            "Dobrodružný"
+        ],
+        "duration": 153,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "actors": [
+            "Brad Pitt",
+            "Mélanie Laurent"
+        ]
+    },
+    {
+        "no": 109,
+        "title": "Jára Cimrman ležící, spící",
+        "rating_avg": 86.8,
+        "rating_total": 45311,
+        "year": 1983,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Životopisný"
+        ],
+        "duration": 81,
+        "directors": [
+            "Ladislav Smoljak"
+        ],
+        "actors": [
+            "Zdeněk Svěrák",
+            "Valerie Kaplanová"
+        ]
+    },
+    {
+        "no": 110,
+        "title": "Cesta do fantazie",
+        "rating_avg": 86.8,
+        "rating_total": 32276,
+        "year": 2001,
+        "countries": [
+            "Japonsko"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 124,
+        "directors": [
+            "Hajao Mijazaki"
+        ],
+        "actors": [
+            "Rumi Hiiragi",
+            "Takaši Naitó"
+        ]
+    },
+    {
+        "no": 111,
+        "title": "Škola základ života",
+        "rating_avg": 86.8,
+        "rating_total": 30895,
+        "year": 1938,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 91,
+        "directors": [
+            "Martin Frič"
+        ],
+        "actors": [
+            "Theodor Pištěk",
+            "František Smolík"
+        ]
+    },
+    {
+        "no": 112,
+        "title": "Zelená kniha",
+        "rating_avg": 86.8,
+        "rating_total": 30081,
+        "year": 2018,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Komedie"
+        ],
+        "duration": 130,
+        "directors": [
+            "Peter Farrelly"
+        ],
+        "actors": [
+            "Viggo Mortensen",
+            "Mahershala Ali"
+        ]
+    },
+    {
+        "no": 113,
+        "title": "Sedm samurajů",
+        "rating_avg": 86.9,
+        "rating_total": 15856,
+        "year": 1954,
+        "countries": [
+            "Japonsko"
+        ],
+        "genres": [
+            "Akční",
+            "Drama"
+        ],
+        "duration": 160,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "actors": [
+            "Takaši Šimura",
+            "Daisuke Kató"
+        ]
+    },
+    {
+        "no": 114,
+        "title": "Americký gangster",
+        "rating_avg": 86.7,
+        "rating_total": 44312,
+        "year": 2007,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 157,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "actors": [
+            "Denzel Washington",
+            "Russell Crowe"
+        ]
+    },
+    {
+        "no": 115,
+        "title": "Sbal prachy a vypadni",
+        "rating_avg": 86.7,
+        "rating_total": 37068,
+        "year": 1998,
+        "countries": [
+            "Velká Británie"
+        ],
+        "genres": [
+            "Krimi",
+            "Thriller"
+        ],
+        "duration": 107,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "actors": [
+            "Jason Flemyng",
+            "Dexter Fletcher"
+        ]
+    },
+    {
+        "no": 116,
+        "title": "Zjizvená tvář",
+        "rating_avg": 86.7,
+        "rating_total": 33601,
+        "year": 1983,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Krimi",
+            "Drama"
+        ],
+        "duration": 170,
+        "directors": [
+            "Brian De Palma"
+        ],
+        "actors": [
+            "Al Pacino",
+            "Steven Bauer"
+        ]
+    },
+    {
+        "no": 117,
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "rating_avg": 88.6,
+        "rating_total": 593,
+        "year": 2025,
+        "countries": [
+            "Japonsko"
+        ],
+        "genres": [
+            "Animovaný",
+            "Akční"
+        ],
+        "duration": 155,
+        "directors": [
+            "Hikaru Kondó",
+            "Haruo Sotozaki"
+        ],
+        "actors": [
+            "Nacuki Hanae",
+            "Akari Kitó"
+        ]
+    },
+    {
+        "no": 118,
+        "title": "Batman začíná",
+        "rating_avg": 86.6,
+        "rating_total": 75318,
+        "year": 2005,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Dobrodružný"
+        ],
+        "duration": 140,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Christian Bale",
+            "Michael Caine"
+        ]
+    },
+    {
+        "no": 119,
+        "title": "Vrchní, prchni!",
+        "rating_avg": 86.6,
+        "rating_total": 69175,
+        "year": 1980,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 85,
+        "directors": [
+            "Ladislav Smoljak"
+        ],
+        "actors": [
+            "Josef Abrhám",
+            "Libuše Šafránková"
+        ]
+    },
+    {
+        "no": 120,
+        "title": "Černý jestřáb sestřelen",
+        "rating_avg": 86.6,
+        "rating_total": 61894,
+        "year": 2001,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Historický"
+        ],
+        "duration": 145,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "actors": [
+            "Josh Hartnett",
+            "Ewan McGregor"
+        ]
+    },
+    {
+        "no": 121,
+        "title": "Predátor",
+        "rating_avg": 86.6,
+        "rating_total": 60324,
+        "year": 1987,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Sci-Fi"
+        ],
+        "duration": 107,
+        "directors": [
+            "John McTiernan"
+        ],
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Carl Weathers"
+        ]
+    },
+    {
+        "no": 122,
+        "title": "12 opic",
+        "rating_avg": 86.6,
+        "rating_total": 60278,
+        "year": 1995,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Mysteriózní",
+            "Sci-Fi"
+        ],
+        "duration": 124,
+        "directors": [
+            "Terry Gilliam"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Madeleine Stowe"
+        ]
+    },
+    {
+        "no": 123,
+        "title": "Osudový dotek",
+        "rating_avg": 86.6,
+        "rating_total": 59099,
+        "year": 2004,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Mysteriózní"
+        ],
+        "duration": 113,
+        "directors": [
+            "Jonathan Mackye Gruber",
+            "Eric Bress"
+        ],
+        "actors": [
+            "Ashton Kutcher",
+            "Amy Smart"
+        ]
+    },
+    {
+        "no": 124,
+        "title": "Obchod na korze",
+        "rating_avg": 86.7,
+        "rating_total": 18336,
+        "year": 1965,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 128,
+        "directors": [
+            "Ján Kadár",
+            "Elmar Klos"
+        ],
+        "actors": [
+            "Ida Kamińska",
+            "Jozef Kroner"
+        ]
+    },
+    {
+        "no": 125,
+        "title": "Třináct životů",
+        "rating_avg": 86.7,
+        "rating_total": 8596,
+        "year": 2022,
+        "countries": [
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Dobrodružný"
+        ],
+        "duration": 149,
+        "directors": [
+            "Ron Howard"
+        ],
+        "actors": [
+            "Viggo Mortensen",
+            "Colin Farrell"
+        ]
+    },
+    {
+        "no": 126,
+        "title": "Rocky",
+        "rating_avg": 86.6,
+        "rating_total": 59208,
+        "year": 1976,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Sportovní"
+        ],
+        "duration": 115,
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "actors": [
+            "Sylvester Stallone",
+            "Talia Shire"
+        ]
+    },
+    {
+        "no": 127,
+        "title": "Memento",
+        "rating_avg": 86.5,
+        "rating_total": 49947,
+        "year": 2000,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Mysteriózní",
+            "Thriller"
+        ],
+        "duration": 113,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Guy Pearce",
+            "Carrie-Anne Moss"
+        ]
+    },
+    {
+        "no": 128,
+        "title": "Lví král",
+        "rating_avg": 86.5,
+        "rating_total": 46944,
+        "year": 1994,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 89,
+        "directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "actors": [
+            "Matthew Broderick",
+            "Jeremy Irons"
+        ]
+    },
+    {
+        "no": 129,
+        "title": "Smrtonosná zbraň 2",
+        "rating_avg": 86.6,
+        "rating_total": 43531,
+        "year": 1989,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Krimi"
+        ],
+        "duration": 107,
+        "directors": [
+            "Richard Donner"
+        ],
+        "actors": [
+            "Mel Gibson",
+            "Danny Glover"
+        ]
+    },
+    {
+        "no": 130,
+        "title": "Sněhurka a sedm trpaslíků",
+        "rating_avg": 86.5,
+        "rating_total": 27160,
+        "year": 1937,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Rodinný"
+        ],
+        "duration": 83,
+        "directors": [
+            "David Hand"
+        ],
+        "actors": [
+            "Roy Atwell",
+            "Stuart Buchanan"
+        ]
+    },
+    {
+        "no": 131,
+        "title": "Čarodějův učeň",
+        "rating_avg": 86.6,
+        "rating_total": 18963,
+        "year": 1977,
+        "countries": [
+            "Československo",
+            "Západní Německo"
+        ],
+        "genres": [
+            "Animovaný",
+            "Horor"
+        ],
+        "duration": 72,
+        "directors": [
+            "Karel Zeman"
+        ],
+        "actors": [
+            "Luděk Munzar",
+            "Jaroslav Moučka"
+        ]
+    },
+    {
+        "no": 132,
+        "title": "Ponorka",
+        "rating_avg": 86.6,
+        "rating_total": 15357,
+        "year": 1981,
+        "countries": [
+            "Západní Německo"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 149,
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "actors": [
+            "Jürgen Prochnow",
+            "Herbert Grönemeyer"
+        ]
+    },
+    {
+        "no": 133,
+        "title": "Sám doma",
+        "rating_avg": 86.4,
+        "rating_total": 81168,
+        "year": 1990,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Rodinný",
+            "Komedie"
+        ],
+        "duration": 103,
+        "directors": [
+            "Chris Columbus"
+        ],
+        "actors": [
+            "Macaulay Culkin",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "no": 134,
+        "title": "Temný rytíř povstal",
+        "rating_avg": 86.5,
+        "rating_total": 70299,
+        "year": 2012,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Akční",
+            "Krimi"
+        ],
+        "duration": 158,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Christian Bale",
+            "Gary Oldman"
+        ]
+    },
+    {
+        "no": 135,
+        "title": "Top Gun: Maverick",
+        "rating_avg": 86.4,
+        "rating_total": 28923,
+        "year": 2022,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Drama"
+        ],
+        "duration": 131,
+        "directors": [
+            "Joseph Kosinski"
+        ],
+        "actors": [
+            "Tom Cruise",
+            "Miles Teller"
+        ]
+    },
+    {
+        "no": 136,
+        "title": "Pro pár dolarů navíc",
+        "rating_avg": 86.4,
+        "rating_total": 18462,
+        "year": 1965,
+        "countries": [
+            "Itálie",
+            "Španělsko"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "duration": 132,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "actors": [
+            "Clint Eastwood",
+            "Lee Van Cleef"
+        ]
+    },
+    {
+        "no": 137,
+        "title": "Jak vycvičit draka",
+        "rating_avg": 86.3,
+        "rating_total": 65857,
+        "year": 2010,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 94,
+        "directors": [
+            "Chris Sanders",
+            "Dean DeBlois"
+        ],
+        "actors": [
+            "Jay Baruchel",
+            "Gerard Butler"
+        ]
+    },
+    {
+        "no": 138,
+        "title": "Na hraně zítřka",
+        "rating_avg": 86.3,
+        "rating_total": 59667,
+        "year": 2014,
+        "countries": [
+            "USA",
+            "Kanada"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Akční"
+        ],
+        "duration": 108,
+        "directors": [
+            "Doug Liman"
+        ],
+        "actors": [
+            "Tom Cruise",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "no": 139,
+        "title": "Hotel Rwanda",
+        "rating_avg": 86.3,
+        "rating_total": 32085,
+        "year": 2004,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 121,
+        "directors": [
+            "Terry George"
+        ],
+        "actors": [
+            "Don Cheadle",
+            "Sophie Okonedo"
+        ]
+    },
+    {
+        "no": 140,
+        "title": "Vynález zkázy",
+        "rating_avg": 86.3,
+        "rating_total": 20183,
+        "year": 1958,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Dobrodružný"
+        ],
+        "duration": 81,
+        "directors": [
+            "Karel Zeman"
+        ],
+        "actors": [
+            "Lubor Tokoš",
+            "Arnošt Navrátil"
+        ]
+    },
+    {
+        "no": 141,
+        "title": "Nejistá sezóna",
+        "rating_avg": 86.3,
+        "rating_total": 23545,
+        "year": 1987,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 88,
+        "directors": [
+            "Ladislav Smoljak"
+        ],
+        "actors": [
+            "Zdeněk Svěrák",
+            "Ladislav Smoljak"
+        ]
+    },
+    {
+        "no": 142,
+        "title": "Tři oříšky pro Popelku",
+        "rating_avg": 86.2,
+        "rating_total": 73636,
+        "year": 1973,
+        "countries": [
+            "Československo",
+            "Východní Německo"
+        ],
+        "genres": [
+            "Pohádka"
+        ],
+        "duration": 75,
+        "directors": [
+            "Václav Vorlíček"
+        ],
+        "actors": [
+            "Libuše Šafránková",
+            "Pavel Trávníček"
+        ]
+    },
+    {
+        "no": 143,
+        "title": "Jurský park",
+        "rating_avg": 86.1,
+        "rating_total": 71315,
+        "year": 1993,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Sci-Fi"
+        ],
+        "duration": 127,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "actors": [
+            "Sam Neill",
+            "Laura Dern"
+        ]
+    },
+    {
+        "no": 144,
+        "title": "Císařův pekař - Pekařův císař",
+        "rating_avg": 86.1,
+        "rating_total": 55602,
+        "year": 1951,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Historický"
+        ],
+        "duration": 80,
+        "directors": [
+            "Martin Frič"
+        ],
+        "actors": [
+            "Jan Werich",
+            "Marie Vášová"
+        ]
+    },
+    {
+        "no": 145,
+        "title": "Hra",
+        "rating_avg": 86.1,
+        "rating_total": 47215,
+        "year": 1997,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Mysteriózní"
+        ],
+        "duration": 129,
+        "directors": [
+            "David Fincher"
+        ],
+        "actors": [
+            "Michael Douglas",
+            "Sean Penn"
+        ]
+    },
+    {
+        "no": 146,
+        "title": "Dobrý voják Švejk",
+        "rating_avg": 86.1,
+        "rating_total": 43217,
+        "year": 1956,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Válečný"
+        ],
+        "duration": 105,
+        "directors": [
+            "Karel Steklý"
+        ],
+        "actors": [
+            "Rudolf Hrušínský",
+            "Eva Svobodová"
+        ]
+    },
+    {
+        "no": 147,
+        "title": "Smrt krásných srnců",
+        "rating_avg": 86.1,
+        "rating_total": 37654,
+        "year": 1986,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Komedie"
+        ],
+        "duration": 91,
+        "directors": [
+            "Karel Kachyňa"
+        ],
+        "actors": [
+            "Karel Heřmánek",
+            "Rudolf Hrušínský"
+        ]
+    },
+    {
+        "no": 148,
+        "title": "Olověná vesta",
+        "rating_avg": 86.1,
+        "rating_total": 31609,
+        "year": 1987,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Válečný"
+        ],
+        "duration": 116,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "actors": [
+            "Matthew Modine",
+            "Adam Baldwin"
+        ]
+    },
+    {
+        "no": 149,
+        "title": "Černobílý svět",
+        "rating_avg": 86.2,
+        "rating_total": 24024,
+        "year": 2011,
+        "countries": [
+            "USA",
+            "Indie"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 140,
+        "directors": [
+            "Tate Taylor"
+        ],
+        "actors": [
+            "Emma Stone",
+            "Viola Davis"
+        ]
+    },
+    {
+        "no": 150,
+        "title": "Sloní muž",
+        "rating_avg": 86.1,
+        "rating_total": 18989,
+        "year": 1980,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 124,
+        "directors": [
+            "David Lynch"
+        ],
+        "actors": [
+            "Anthony Hopkins",
+            "John Hurt"
+        ]
+    },
+    {
+        "no": 151,
+        "title": "Hledá se Nemo",
+        "rating_avg": 86.0,
+        "rating_total": 76588,
+        "year": 2003,
+        "countries": [
+            "Austrálie",
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 100,
+        "directors": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "actors": [
+            "Albert Brooks",
+            "Ellen DeGeneres"
+        ]
+    },
+    {
+        "no": 152,
+        "title": "Kolja",
+        "rating_avg": 86.1,
+        "rating_total": 64336,
+        "year": 1996,
+        "countries": [
+            "Česko",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 105,
+        "directors": [
+            "Jan Svěrák"
+        ],
+        "actors": [
+            "Zdeněk Svěrák",
+            "Andrej Chalimon"
+        ]
+    },
+    {
+        "no": 153,
+        "title": "Limonádový Joe aneb Koňská opera",
+        "rating_avg": 86.0,
+        "rating_total": 46338,
+        "year": 1964,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Muzikál"
+        ],
+        "duration": 95,
+        "directors": [
+            "Oldřich Lipský"
+        ],
+        "actors": [
+            "Karel Fiala",
+            "Miloš Kopecký"
+        ]
+    },
+    {
+        "no": 154,
+        "title": "Zmizení",
+        "rating_avg": 86.0,
+        "rating_total": 44781,
+        "year": 2013,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Thriller",
+            "Mysteriózní"
+        ],
+        "duration": 153,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "actors": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal"
+        ]
+    },
+    {
+        "no": 155,
+        "title": "Život Briana",
+        "rating_avg": 86.1,
+        "rating_total": 34428,
+        "year": 1979,
+        "countries": [
+            "Velká Británie"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 94,
+        "directors": [
+            "Terry Jones"
+        ],
+        "actors": [
+            "Graham Chapman",
+            "John Cleese"
+        ]
+    },
+    {
+        "no": 156,
+        "title": "Apokalypsa",
+        "rating_avg": 86.0,
+        "rating_total": 26213,
+        "year": 1979,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Válečný",
+            "Drama"
+        ],
+        "duration": 147,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "actors": [
+            "Martin Sheen",
+            "Marlon Brando"
+        ]
+    },
+    {
+        "no": 157,
+        "title": "Společnost mrtvých básníků",
+        "rating_avg": 86.0,
+        "rating_total": 21771,
+        "year": 1989,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 128,
+        "directors": [
+            "Peter Weir"
+        ],
+        "actors": [
+            "Robin Williams",
+            "Robert Sean Leonard"
+        ]
+    },
+    {
+        "no": 158,
+        "title": "Most přes řeku Kwai",
+        "rating_avg": 86.0,
+        "rating_total": 21189,
+        "year": 1957,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Drama"
+        ],
+        "duration": 161,
+        "directors": [
+            "David Lean"
+        ],
+        "actors": [
+            "William Holden",
+            "Alec Guinness"
+        ]
+    },
+    {
+        "no": 159,
+        "title": "Zpívání v dešti",
+        "rating_avg": 86.1,
+        "rating_total": 11004,
+        "year": 1952,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Muzikál",
+            "Romantický"
+        ],
+        "duration": 103,
+        "directors": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "actors": [
+            "Gene Kelly",
+            "Donald O'Connor"
+        ]
+    },
+    {
+        "no": 160,
+        "title": "Ratatouille",
+        "rating_avg": 85.9,
+        "rating_total": 72442,
+        "year": 2007,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Komedie"
+        ],
+        "duration": 111,
+        "directors": [
+            "Brad Bird",
+            "Jan Pinkava"
+        ],
+        "actors": [
+            "Patton Oswalt",
+            "Ian Holm"
+        ]
+    },
+    {
+        "no": 161,
+        "title": "Skrytá identita",
+        "rating_avg": 85.9,
+        "rating_total": 52290,
+        "year": 2006,
+        "countries": [
+            "USA",
+            "Hongkong"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 151,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "actors": [
+            "Leonardo DiCaprio",
+            "Matt Damon"
+        ]
+    },
+    {
+        "no": 162,
+        "title": "Návrat do budoucnosti II",
+        "rating_avg": 85.9,
+        "rating_total": 49453,
+        "year": 1989,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Komedie"
+        ],
+        "duration": 108,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd"
+        ]
+    },
+    {
+        "no": 163,
+        "title": "Gentlemani",
+        "rating_avg": 86.0,
+        "rating_total": 28966,
+        "year": 2019,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Komedie"
+        ],
+        "duration": 113,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "actors": [
+            "Matthew McConaughey",
+            "Charlie Hunnam"
+        ]
+    },
+    {
+        "no": 164,
+        "title": "Pink Floyd: The Wall",
+        "rating_avg": 86.0,
+        "rating_total": 19015,
+        "year": 1982,
+        "countries": [
+            "Velká Británie"
+        ],
+        "genres": [
+            "Drama",
+            "Hudební"
+        ],
+        "duration": 95,
+        "directors": [
+            "Alan Parker"
+        ],
+        "actors": [
+            "Bob Geldof",
+            "Bob Hoskins"
+        ]
+    },
+    {
+        "no": 165,
+        "title": "Carlitova cesta",
+        "rating_avg": 86.0,
+        "rating_total": 17486,
+        "year": 1993,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Krimi"
+        ],
+        "duration": 144,
+        "directors": [
+            "Brian De Palma"
+        ],
+        "actors": [
+            "Al Pacino",
+            "Sean Penn"
+        ]
+    },
+    {
+        "no": 166,
+        "title": "Rozzum v divočině",
+        "rating_avg": 86.1,
+        "rating_total": 5836,
+        "year": 2024,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Sci-Fi"
+        ],
+        "duration": 101,
+        "directors": [
+            "Chris Sanders"
+        ],
+        "actors": [
+            "Lupita Nyong'o",
+            "Pedro Pascal"
+        ]
+    },
+    {
+        "no": 167,
+        "title": "Avengers: Infinity War",
+        "rating_avg": 85.8,
+        "rating_total": 44322,
+        "year": 2018,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Dobrodružný"
+        ],
+        "duration": 149,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "no": 168,
+        "title": "Gauneři",
+        "rating_avg": 85.8,
+        "rating_total": 39874,
+        "year": 1992,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Krimi",
+            "Thriller"
+        ],
+        "duration": 99,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "actors": [
+            "Harvey Keitel",
+            "Tim Roth"
+        ]
+    },
+    {
+        "no": 169,
+        "title": "Všichni dobří rodáci",
+        "rating_avg": 85.9,
+        "rating_total": 18448,
+        "year": 1968,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "duration": 115,
+        "directors": [
+            "Vojtěch Jasný"
+        ],
+        "actors": [
+            "Vlastimil Brodský",
+            "Radoslav Brzobohatý"
+        ]
+    },
+    {
+        "no": 170,
+        "title": "Kid",
+        "rating_avg": 86.0,
+        "rating_total": 9124,
+        "year": 1921,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 68,
+        "directors": [
+            "Charlie Chaplin"
+        ],
+        "actors": [
+            "Carl Miller",
+            "Edna Purviance"
+        ]
+    },
+    {
+        "no": 171,
+        "title": "Život je krásný",
+        "rating_avg": 85.9,
+        "rating_total": 8769,
+        "year": 1946,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "duration": 130,
+        "directors": [
+            "Frank Capra"
+        ],
+        "actors": [
+            "James Stewart",
+            "Donna Reed"
+        ]
+    },
+    {
+        "no": 172,
+        "title": "Tvoje jméno.",
+        "rating_avg": 86.0,
+        "rating_total": 5505,
+        "year": 2016,
+        "countries": [
+            "Japonsko"
+        ],
+        "genres": [
+            "Animovaný",
+            "Fantasy"
+        ],
+        "duration": 106,
+        "directors": [
+            "Makoto Šinkai"
+        ],
+        "actors": [
+            "Mone Kamiširaiši",
+            "Rjúnosuke Kamiki"
+        ]
+    },
+    {
+        "no": 173,
+        "title": "Harry Potter a vězeň z Azkabanu",
+        "rating_avg": 85.8,
+        "rating_total": 88238,
+        "year": 2004,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Fantasy",
+            "Rodinný"
+        ],
+        "duration": 141,
+        "directors": [
+            "Alfonso Cuarón"
+        ],
+        "actors": [
+            "Daniel Radcliffe",
+            "Rupert Grint"
+        ]
+    },
+    {
+        "no": 174,
+        "title": "Králova řeč",
+        "rating_avg": 85.7,
+        "rating_total": 55194,
+        "year": 2010,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Životopisný"
+        ],
+        "duration": 118,
+        "directors": [
+            "Tom Hooper"
+        ],
+        "actors": [
+            "Colin Firth",
+            "Helena Bonham Carter"
+        ]
+    },
+    {
+        "no": 175,
+        "title": "Slavnosti sněženek",
+        "rating_avg": 85.7,
+        "rating_total": 51865,
+        "year": 1983,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 83,
+        "directors": [
+            "Jiří Menzel"
+        ],
+        "actors": [
+            "Rudolf Hrušínský",
+            "Jaromír Hanzlík"
+        ]
+    },
+    {
+        "no": 176,
+        "title": "Četník ze Saint Tropez",
+        "rating_avg": 85.7,
+        "rating_total": 50283,
+        "year": 1964,
+        "countries": [
+            "Francie",
+            "Itálie"
+        ],
+        "genres": [
+            "Komedie",
+            "Krimi"
+        ],
+        "duration": 95,
+        "directors": [
+            "Jean Girault"
+        ],
+        "actors": [
+            "Louis de Funès",
+            "Geneviève Grad"
+        ]
+    },
+    {
+        "no": 177,
+        "title": "Svět podle Prota",
+        "rating_avg": 85.7,
+        "rating_total": 40650,
+        "year": 2001,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "duration": 120,
+        "directors": [
+            "Iain Softley"
+        ],
+        "actors": [
+            "Kevin Spacey",
+            "Jeff Bridges"
+        ]
+    },
+    {
+        "no": 178,
+        "title": "Poslušně hlásím",
+        "rating_avg": 85.7,
+        "rating_total": 30032,
+        "year": 1957,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie",
+            "Válečný"
+        ],
+        "duration": 91,
+        "directors": [
+            "Karel Steklý"
+        ],
+        "actors": [
+            "Rudolf Hrušínský",
+            "Jaroslav Marvan"
+        ]
+    },
+    {
+        "no": 179,
+        "title": "Spider-Man: Paralelní světy",
+        "rating_avg": 85.8,
+        "rating_total": 22692,
+        "year": 2018,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Akční"
+        ],
+        "duration": 117,
+        "directors": [
+            "Bob Persichetti",
+            "Peter Ramsey"
+        ],
+        "actors": [
+            "Shameik Moore",
+            "Jake Johnson"
+        ]
+    },
+    {
+        "no": 180,
+        "title": "Ucho",
+        "rating_avg": 85.8,
+        "rating_total": 18511,
+        "year": 1970,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Drama",
+            "Psychologický"
+        ],
+        "duration": 91,
+        "directors": [
+            "Karel Kachyňa"
+        ],
+        "actors": [
+            "Jiřina Bohdalová",
+            "Radoslav Brzobohatý"
+        ]
+    },
+    {
+        "no": 181,
+        "title": "Nebe a dudy",
+        "rating_avg": 85.8,
+        "rating_total": 11128,
+        "year": 1941,
+        "countries": [
+            "Protektorát Čechy a Morava"
+        ],
+        "genres": [
+            "Komedie",
+            "Romantický"
+        ],
+        "duration": 91,
+        "directors": [
+            "Vladimír Slavínský"
+        ],
+        "actors": [
+            "Jindřich Plachta",
+            "Jaroslav Marvan"
+        ]
+    },
+    {
+        "no": 182,
+        "title": "Obchodník se smrtí",
+        "rating_avg": 85.6,
+        "rating_total": 56888,
+        "year": 2005,
+        "countries": [
+            "USA",
+            "Francie"
+        ],
+        "genres": [
+            "Krimi",
+            "Drama"
+        ],
+        "duration": 122,
+        "directors": [
+            "Andrew Niccol"
+        ],
+        "actors": [
+            "Nicolas Cage",
+            "Bridget Moynahan"
+        ]
+    },
+    {
+        "no": 183,
+        "title": "Skála",
+        "rating_avg": 85.7,
+        "rating_total": 55419,
+        "year": 1996,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Thriller"
+        ],
+        "duration": 136,
+        "directors": [
+            "Michael Bay"
+        ],
+        "actors": [
+            "Sean Connery",
+            "Nicolas Cage"
+        ]
+    },
+    {
+        "no": 184,
+        "title": "Toy Story: Příběh hraček",
+        "rating_avg": 85.6,
+        "rating_total": 54381,
+        "year": 1995,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Animovaný",
+            "Dobrodružný"
+        ],
+        "duration": 80,
+        "directors": [
+            "John Lasseter"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Tim Allen"
+        ]
+    },
+    {
+        "no": 185,
+        "title": "Věc",
+        "rating_avg": 85.6,
+        "rating_total": 36680,
+        "year": 1982,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Horor"
+        ],
+        "duration": 109,
+        "directors": [
+            "John Carpenter"
+        ],
+        "actors": [
+            "Kurt Russell",
+            "Wilford Brimley"
+        ]
+    },
+    {
+        "no": 186,
+        "title": "Whiplash",
+        "rating_avg": 85.6,
+        "rating_total": 28420,
+        "year": 2014,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Drama",
+            "Hudební"
+        ],
+        "duration": 107,
+        "directors": [
+            "Damien Chazelle"
+        ],
+        "actors": [
+            "Miles Teller",
+            "J.K. Simmons"
+        ]
+    },
+    {
+        "no": 187,
+        "title": "Česká soda",
+        "rating_avg": 85.7,
+        "rating_total": 24397,
+        "year": 1998,
+        "countries": [
+            "Česko"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 91,
+        "directors": [
+            "Milan Šteindler",
+            "Václav Křístek"
+        ],
+        "actors": [
+            "Petr Čtvrtníček",
+            "Milan Šteindler"
+        ]
+    },
+    {
+        "no": 188,
+        "title": "Přednosta stanice",
+        "rating_avg": 85.6,
+        "rating_total": 24317,
+        "year": 1941,
+        "countries": [
+            "Protektorát Čechy a Morava"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 88,
+        "directors": [
+            "Jan Sviták"
+        ],
+        "actors": [
+            "Vlasta Burian",
+            "Zita Kabátová"
+        ]
+    },
+    {
+        "no": 189,
+        "title": "Ducháček to zařídí",
+        "rating_avg": 85.6,
+        "rating_total": 21698,
+        "year": 1938,
+        "countries": [
+            "Československo"
+        ],
+        "genres": [
+            "Komedie"
+        ],
+        "duration": 86,
+        "directors": [
+            "Karel Lamač"
+        ],
+        "actors": [
+            "Vlasta Burian",
+            "Ladislav Hemmer"
+        ]
+    },
+    {
+        "no": 190,
+        "title": "Okno do dvora",
+        "rating_avg": 85.7,
+        "rating_total": 16251,
+        "year": 1954,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Mysteriózní",
+            "Thriller"
+        ],
+        "duration": 112,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "actors": [
+            "James Stewart",
+            "Grace Kelly"
+        ]
+    },
+    {
+        "no": 191,
+        "title": "Diktátor",
+        "rating_avg": 85.7,
+        "rating_total": 11263,
+        "year": 1940,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 125,
+        "directors": [
+            "Charlie Chaplin"
+        ],
+        "actors": [
+            "Charlie Chaplin",
+            "Jack Oakie"
+        ]
+    },
+    {
+        "no": 192,
+        "title": "Láska nebeská",
+        "rating_avg": 85.5,
+        "rating_total": 76867,
+        "year": 2003,
+        "countries": [
+            "Velká Británie",
+            "USA"
+        ],
+        "genres": [
+            "Komedie",
+            "Drama"
+        ],
+        "duration": 135,
+        "directors": [
+            "Richard Curtis"
+        ],
+        "actors": [
+            "Bill Nighy",
+            "Gregor Fisher"
+        ]
+    },
+    {
+        "no": 193,
+        "title": "Agent bez minulosti",
+        "rating_avg": 85.5,
+        "rating_total": 55137,
+        "year": 2002,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Akční",
+            "Mysteriózní"
+        ],
+        "duration": 119,
+        "directors": [
+            "Doug Liman"
+        ],
+        "actors": [
+            "Matt Damon",
+            "Franka Potente"
+        ]
+    },
+    {
+        "no": 194,
+        "title": "Bournův mýtus",
+        "rating_avg": 85.5,
+        "rating_total": 50921,
+        "year": 2004,
+        "countries": [
+            "USA",
+            "Německo"
+        ],
+        "genres": [
+            "Akční",
+            "Thriller"
+        ],
+        "duration": 108,
+        "directors": [
+            "Paul Greengrass"
+        ],
+        "actors": [
+            "Matt Damon",
+            "Franka Potente"
+        ]
+    },
+    {
+        "no": 195,
+        "title": "Rambo: První krev",
+        "rating_avg": 85.5,
+        "rating_total": 44363,
+        "year": 1982,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Dobrodružný"
+        ],
+        "duration": 93,
+        "directors": [
+            "Ted Kotcheff"
+        ],
+        "actors": [
+            "Sylvester Stallone",
+            "Richard Crenna"
+        ]
+    },
+    {
+        "no": 196,
+        "title": "Vlny",
+        "rating_avg": 85.6,
+        "rating_total": 18824,
+        "year": 2024,
+        "countries": [
+            "Česko",
+            "Slovensko"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "duration": 131,
+        "directors": [
+            "Jiří Mádl"
+        ],
+        "actors": [
+            "Vojtěch Vodochodský",
+            "Ondřej Stupka"
+        ]
+    },
+    {
+        "no": 197,
+        "title": "Velký útěk",
+        "rating_avg": 85.6,
+        "rating_total": 15026,
+        "year": 1963,
+        "countries": [
+            "USA"
+        ],
+        "genres": [
+            "Dobrodružný",
+            "Drama"
+        ],
+        "duration": 165,
+        "directors": [
+            "John Sturges"
+        ],
+        "actors": [
+            "Steve McQueen",
+            "James Garner"
+        ]
+    },
+    {
+        "no": 198,
+        "title": "Interstellar",
+        "rating_avg": 85.4,
+        "rating_total": 67184,
+        "year": 2014,
+        "countries": [
+            "USA",
+            "Velká Británie"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Dobrodružný"
+        ],
+        "duration": 169,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Matthew McConaughey",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "no": 199,
+        "title": "96 hodin",
+        "rating_avg": 85.4,
+        "rating_total": 56202,
+        "year": 2008,
+        "countries": [
+            "Francie",
+            "USA"
+        ],
+        "genres": [
+            "Akční",
+            "Krimi"
+        ],
+        "duration": 89,
+        "directors": [
+            "Pierre Morel"
+        ],
+        "actors": [
+            "Liam Neeson",
+            "Maggie Grace"
+        ]
+    }
+]
