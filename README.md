@@ -7,4 +7,4 @@ Projekt zaměřený na end-to-end analýzu nejlépe hodnocených filmů z webu �
 - Vizualizace pomocí Altair
 - Prezentace ve webové aplikaci Streamlit
 
-[**🚀Spustit aplikaci**](https://s4dl0-csfd-top-filmy.streamlit.app/)
+🚀[**Spustit aplikaci**](https://s4dl0-csfd-top-filmy.streamlit.app/)
